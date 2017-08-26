@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body  {
+	font-family: 'Times New Roman';
+	background: #ffffff;
+
+
+}
+#contenedor {width: 100%; margin: 0 auto}
+#header {background: #ffffff; height: 120px}
+#main {background: #122b40;height: 100px; margin-top: -20px !important;}
+#centro{background: #ffffff; }
+#izquierda {
+        width: 350px;
+        height: 100%;
+        float: left;
+}
+#medio {
+        width: auto;
+        height: 100%;
+        float: left;
+}
+#derecha {
+        width: 230px;
+        height: 100%;           
+        float: right;
+    }
+#foot{background: #122b40; height: 50px; margin-top: 30px;}
+.navbar.navbar, .navbar-default.navbar {
+    background-color: #122b40 !important;
+    color: rgba(255,255,255,.84);
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
