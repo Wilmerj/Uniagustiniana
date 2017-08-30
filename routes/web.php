@@ -15,3 +15,5 @@ Auth::routes();
 Route::get('/encuesta', 'EncuestaController@encuesta')->name('encuesta');
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/comunidad', 'ComunidadController@index')->name('comunidad');
+Route::get('/cursos', 'CursosController@index')->name('cursos');
+Route::get('/comunidad/chat', 'ChatController@index')->name('chat');

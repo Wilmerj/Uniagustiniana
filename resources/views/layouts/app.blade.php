@@ -60,7 +60,7 @@
                         @if (Auth::guest())
                          <ul class="nav nav-tabs">
                               <li class="nav-item">
-                                <a class="nav-link active" href="{{ route('login') }}">Inicio</a>
+                                <a class="nav-link" href="{{ route('login') }}">Inicio</a>
                               </li>
                               <li class="nav-item">
                                 <a class="nav-link" href="{{ route('register') }}">Registro</a>
@@ -69,10 +69,10 @@
                         @else
                         <ul class="nav nav-tabs">
                               <li class="nav-item">
-                                <a class="nav-link active" href="{{ route('comunidad') }}">Comunidad</a>
+                                <a class="nav-link" href="{{ route('comunidad') }}">Comunidad</a>
                               </li>
                               <li class="nav-item">
-                                <a class="nav-link" href="">Cursos</a>
+                                <a class="nav-link" href="{{ route('cursos') }}">Cursos</a>
                               </li>
                               <li class="nav-item">
                                 <a class="nav-link" href="{{ route('encuesta') }}">Test</a>
