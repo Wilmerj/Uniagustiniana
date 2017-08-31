@@ -4,7 +4,7 @@
     margin: 0 auto;
     background-color: white;
     box-sizing: border-box;
-    height: 100%;
+    height: 600px;
     display: flex;
     flex-wrap: nowrap;
 }
