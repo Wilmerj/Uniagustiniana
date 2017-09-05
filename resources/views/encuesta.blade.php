@@ -5,10 +5,8 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-body">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpCkPqLpY8gznCit2RDe48iWZwSogBmcY2_4DC-URtN-tOyQ/viewform?embedded=true" width="720" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebWSQ5h9o-mFPc7WX1gTdJGRrGAUQvYHL9SZUYAHAAarwCcA/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 
-                </div>
             </div>
         </div>
     </div>

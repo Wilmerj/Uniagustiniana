@@ -300,14 +300,14 @@
 			        </div>
 			    </script>
 
-			    <script src="../js/QBconfig.js" defer></script>
-			    <script src="../js/user.js" defer></script>
-			    <script src="../js/dialog.js" defer></script>
-			    <script src="../js/message.js" defer></script>
-			    <script src="../js/listeners.js" defer></script>
-			    <script src="../js/helpers.js" defer></script>
-			    <script src="../js/app2.js" defer></script>
-			    <script src="../js/login.js" defer></script>
-			    <script src="../js/route.js" defer></script>
+		    <script src="../js/QBconfig.js" defer></script>
+		    <script src="../js/user.js" defer></script>
+		    <script src="../js/dialog.js" defer></script>
+		    <script src="../js/message.js" defer></script>
+		    <script src="../js/listeners.js" defer></script>
+		    <script src="../js/helpers.js" defer></script>
+		    <script src="../js/app2.js" defer></script>
+		    <script src="../js/login.js" defer></script>
+		    <script src="../js/route.js" defer></script>
         </div>
 @endsection
